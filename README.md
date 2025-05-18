@@ -63,4 +63,8 @@ The model takes a sentence as input and returns the detected emotion.
 *Classification Report*
  ![classification](images/classification_report.png)
 
-
+## Sample Outputs
+1. ![output1](images/output1.png)
+2. ![output2](images/output2.png)
+3. ![output3](images/output3.png)
+4. ![output4](images/output4.png)
